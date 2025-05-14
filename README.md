@@ -17,4 +17,4 @@ This project provides a suite of test cases to verify the behavior of `pickle` s
 Run all tests:
 
 ```bash
-python your_script_name.py
+python pickle_testing.py
