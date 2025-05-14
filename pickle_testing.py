@@ -102,7 +102,7 @@ def test_TC09_binary_data():
     print("TC09 passed: Binary Data")
 
 
-# TC10 – Circular References
+# TC10 – Circular ReferencesT
 class Node:
     def __init__(self, value):
         self.value = value
